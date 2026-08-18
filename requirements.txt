@@ -1,7 +1,11 @@
+python
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
 joblib
-jupyter
+pydantic
+fastapi
+uvicorn
+streamlit
